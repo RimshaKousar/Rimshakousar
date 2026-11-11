@@ -19,7 +19,7 @@
 ## 🌱 About Me
 
 - 🎓 Student on the path to becoming a **Full Stack Engineer**
-- 🔭 Currently building: **[your current project]**
+- 🔭 Currently building: **[zmuraa.com]**
 - 📚 Currently learning: **React, Node.js, MongoDB, TypeScript**
 - 🎯 Goal: Land an internship and build products people actually use
 - 🤝 Looking for: **internships, open-source projects, and study buddies**
@@ -121,7 +121,7 @@
 
 I'm happy to collaborate, swap notes, or chat about tech and learning.
 
--  LinkedIn: [your-linkedin](https://linkedin.com/in/your-linkedin)
+-  LinkedIn: [your-linkedin]( https://www.linkedin.com/in/rimsha-kousar-0204ab202/)
 - 📧 Email: your-email@example.com
 - 🌐 Portfolio: [your-portfolio-link.com](https://your-portfolio-link.com)
 
